@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Cloud Computing, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://mohit-goswami.vercel.app/](https://mohit-goswami.vercel.app/)
-
 - 💬 Ask me about **React, Next, JavaScript, TypeScript, Node, Express, Prisma, Postgres, MongoDB, , AWS**
 
 - 📫 How to reach me **mohitgoswami379@gmail.com**
