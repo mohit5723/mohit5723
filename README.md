@@ -1,7 +1,10 @@
 ![Header](https://github.com/mohit5723/mohit5723/assets/113592385/3f196b60-5f05-4490-a2f3-323c377d3409)
 
 
-<h1 align="center">Hi 👋, I'm Mohit</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Goswami!;" />
+</h1>
+
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
